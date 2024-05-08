@@ -39,10 +39,26 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
 
 
-In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
+In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
+ 
+
+## Technologies Used
+- Python - version 3.7.6
+- NumPy - version 1.18.1
+- Pandas - version 1.2.3
+- Matplotlib - version 3.1.3
+- Seaborn - version 0.10.0
+
+## Conclusion
+- Higher loan amounts are riskier than lower loan amounts, need to do more due diligence when processing the same
+- People with lower annual income tend to default more.
+- Grade values like E,F,G are much riskier compared to A,B,C. These lower grades have higher interest rates, which eventually leads to default.
+- Higher loan amounts tend to default more, we should try to process these more carefully.
+- Borrower’s taking loan for the term 60 months has more chances of default.
 
 ## Contact
 Reach out the creators on,
 - Linkedin:
     - [Poonam Sharma](https://poona-sharma.github.io/portfolio/)
+	- Selva Kumar
 # LendingClubCaseStudy
