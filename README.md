@@ -61,4 +61,3 @@ Reach out the creators on,
 - Linkedin:
     - [Poonam Sharma](https://poona-sharma.github.io/portfolio/)
 	- Selva Kumar
-# LendingClubCaseStudy
